@@ -1,4 +1,4 @@
-print("=====================Cadastro de clientes vers 1.0===================")
+print("=====================Cadastro de clientes versão 1.0===================")
 print()
 nome = str(input("Informe seu nome :"))
 idade = int(input("Informe sua idade :"))
